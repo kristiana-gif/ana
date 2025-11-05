@@ -42,3 +42,5 @@ output_file = "hasil_mahasiswa.xlsx"
 data.to_excel(output_file, index=False)
 
 print(f"\nFile hasil telah disimpan ke: {output_file}")
+
+#pesan gaguna
